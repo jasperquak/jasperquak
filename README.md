@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @jasperquak .....
-
-....and I will complete this later. Let me first try to publish a project.
-
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @jasperquak. I am from The Netherlands, engineer by background, and working in software development 20+ years. While having coded in my earlier years, since long time I have been working in roles as Business consultant, Application architect and Product Manager.
+-
+<! --- - 👀 I’m interested in ... --->
+- 🌱 I’m currently learning new skills though, and am learning Data Analytics in Python with [Dataquest](https://www.dataquest.io/). This includes doing 'guided projects'; the results of some of those are posted here on Github.
+<! --- - 💞️ I’m looking to collaborate on ... --->
+<! --- - 📫 How to reach me ... --->
 
 <!---
 jasperquak/jasperquak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
