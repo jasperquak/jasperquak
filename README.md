@@ -8,9 +8,17 @@
 ## Featured projects
 
 * [Dutch household waste](https://github.com/jasperquak/dutch_household_waste)
-* [Winning jeopardy](https://github.com/jasperquak/winning_jeopardy)
-* [Building a spam filter with naive Bayes](https://github.com/jasperquak/building_spam_filter_naive_bayes)
+* [Building a spam filter with Naive Bayes](https://github.com/jasperquak/building_spam_filter_naive_bayes)
+* [Popular data science questions] https://github.com/jasperquak/popular_data_science_questions
+ 
 
+## Other projects
+
+* [Winning jeopardy](https://github.com/jasperquak/winning_jeopardy)
+* [Selecting markets to advertize in](https://github.com/jasperquak/selecting_markets_to_advertize_in)
+* [Analyzing New York City high school data](https://github.com/jasperquak/analyzing_nyc_highschool_data)
+* [Clean and analyze employee exit surveys](https://github.com/jasperquak/clean_analyze_employee_exit_surveys)
+* [Visualizing earnings college majors](https://github.com/jasperquak/visualizing_earnings_college_majors)
 
 <!---
 - 👀 I’m interested in ... 
