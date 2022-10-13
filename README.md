@@ -8,8 +8,8 @@
 ## Featured projects
 
 * [Dutch household waste](https://github.com/jasperquak/dutch_household_waste)
-* [Winning jeopardy](
-* [Building a spam filter with naive Bayes](
+* [Winning jeopardy](https://github.com/jasperquak/winning_jeopardy)
+* [Building a spam filter with naive Bayes](https://github.com/jasperquak/building_spam_filter_naive_bayes)
 
 
 <!---
