@@ -9,7 +9,7 @@
 
 * [Dutch household waste](https://github.com/jasperquak/dutch_household_waste)
 * [Building a spam filter with Naive Bayes](https://github.com/jasperquak/building_spam_filter_naive_bayes)
-* [Popular data science questions] https://github.com/jasperquak/popular_data_science_questions
+* [Popular data science questions](https://github.com/jasperquak/popular_data_science_questions)
  
 
 ## Other projects
