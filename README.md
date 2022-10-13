@@ -1,6 +1,6 @@
 ## Who am I?
 
-👋 Hi, I’m @jasperquak. I am from The Netherlands, engineer by background, and working in software development 20+ years. While having coded in my earlier years, since long I have been working in roles as Business consultant, Application architect, UX designer and Product manager.
+👋 Hi, I’m @jasperquak. I am from The Netherlands, engineer by background, and working in software development 20+ years. While having coded in my earlier years, since long I have been working in roles such as Business consultant, Application architect, UX designer and Product manager.
 
 🌱 I’m currently learning new skills though: I am learning Data Analytics in Python with [Dataquest](https://www.dataquest.io/). This includes doing hands-on data analysis projects, both 'guided projects' and independent projects. Some of those projects are posted here on Github.
 
