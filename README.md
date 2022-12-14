@@ -7,19 +7,19 @@
 
 ## Featured projects
 
-* [Dutch household waste](https://github.com/jasperquak/dutch_household_waste) <span style="font-size:6px;">(data cleaning, data analytics, data visualization)</span>
-* [Predicting car prices](https://github.com/jasperquak/predicting_car_prices) (data cleaning, k-nearest neighbor)
-* [Building a spam filter with Naive Bayes](https://github.com/jasperquak/building_spam_filter_naive_bayes) (data cleaning, naive bayes)
+* [Dutch household waste](https://github.com/jasperquak/dutch_household_waste) *(data cleaning, data analytics, data visualization)*
+* [Predicting car prices](https://github.com/jasperquak/predicting_car_prices) *(data cleaning, k-nearest neighbor)*
+* [Building a spam filter with Naive Bayes](https://github.com/jasperquak/building_spam_filter_naive_bayes) *(data cleaning, text analysis, naive bayes)*
  
 
 ## Other projects
 
-* [Popular data science questions](https://github.com/jasperquak/popular_data_science_questions)
-* [Winning jeopardy](https://github.com/jasperquak/winning_jeopardy)
-* [Selecting markets to advertize in](https://github.com/jasperquak/selecting_markets_to_advertize_in)
-* [Analyzing New York City high school data](https://github.com/jasperquak/analyzing_nyc_highschool_data)
-* [Clean and analyze employee exit surveys](https://github.com/jasperquak/clean_analyze_employee_exit_surveys)
-* [Visualizing earnings college majors](https://github.com/jasperquak/visualizing_earnings_college_majors)
+* [Popular data science questions](https://github.com/jasperquak/popular_data_science_questions) *(sql, data analytics)*
+* [Winning jeopardy](https://github.com/jasperquak/winning_jeopardy) *(text analysis)*
+* [Selecting markets to advertize in](https://github.com/jasperquak/selecting_markets_to_advertize_in) *(data analytics)*
+* [Analyzing New York City high school data](https://github.com/jasperquak/analyzing_nyc_highschool_data) *(data analytics, data visualization)*
+* [Clean and analyze employee exit surveys](https://github.com/jasperquak/clean_analyze_employee_exit_surveys) *(data cleaning, data analytics)*
+* [Visualizing earnings college majors](https://github.com/jasperquak/visualizing_earnings_college_majors) *(data visualization)*
 
 <!---
 - 👀 I’m interested in ... 
