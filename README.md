@@ -7,7 +7,7 @@
 
 ## Featured projects
 
-* [Dutch household waste](https://github.com/jasperquak/dutch_household_waste) (data cleaning, data analytics, data visualization)
+* [Dutch household waste](https://github.com/jasperquak/dutch_household_waste) <span style="font-size:6px;">(data cleaning, data analytics, data visualization)</span>
 * [Predicting car prices](https://github.com/jasperquak/predicting_car_prices) (data cleaning, k-nearest neighbor)
 * [Building a spam filter with Naive Bayes](https://github.com/jasperquak/building_spam_filter_naive_bayes) (data cleaning, naive bayes)
  
