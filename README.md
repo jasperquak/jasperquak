@@ -14,6 +14,7 @@
 
 ## Other projects
 
+* [Predicting the stock market](https://github.com/jasperquak/predicting_stock_market) *(linear regression)*
 * [Predicting house sale prices](https://github.com/jasperquak/predicting_house_sale_prices) *(feature selection, linear regression)*
 * [Popular data science questions](https://github.com/jasperquak/popular_data_science_questions) *(sql, data analytics)*
 * [Winning jeopardy](https://github.com/jasperquak/winning_jeopardy) *(text analysis)*
