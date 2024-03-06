@@ -14,6 +14,7 @@
 
 ## Other projects
 
+* [Titanic survival prediction](https://github.com/jasperquak/titanic_survival_prediction) *(feature engineering, model selection, model turning, logistic regression, k-nearest-neighbor, random forest)*
 * [Predicting bike rentals](https://github.com/jasperquak/predicting_bike_rentals) *(linear regression, decision tree, random forest)*
 * [Predicting the stock market](https://github.com/jasperquak/predicting_stock_market) *(linear regression)*
 * [Predicting house sale prices](https://github.com/jasperquak/predicting_house_sale_prices) *(feature selection, linear regression)*
