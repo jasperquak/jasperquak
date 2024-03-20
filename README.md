@@ -1,6 +1,6 @@
 ## Who am I?
 
-👋 Hi, I’m @jasperquak. I am from The Netherlands, engineer by background, and working in software development for 20+ years. While having coded in my earlier years, since long I have been working in roles such as Business consultant, Application architect, UX designer and Product manager.
+👋 Hi, I’m @jasperquak. I am from The Netherlands, engineer by background, and working in software development for 20+ years. While having coded in my earlier years, since long I have been working in roles such as Application architect, Product manager, UX designer, Business consultant and Sales enablement.
 
 🌱 I’m currently learning new skills though: I am learning Data Analytics and Data Science in Python with [Dataquest](https://www.dataquest.io/). This includes doing hands-on data projects, both 'guided projects' and independent projects. A selection of these projects is posted here on Github.
 
@@ -8,8 +8,8 @@
 ## Featured projects
 
 * [Dutch household waste](https://github.com/jasperquak/dutch_household_waste) *(data cleaning, data analytics, data visualization)*
-* [Building a spam filter with Naive Bayes](https://github.com/jasperquak/building_spam_filter_naive_bayes) *(data cleaning, text analysis, naive bayes)*
 * [Building a handwritten digits classifier](https://github.com/jasperquak/building_handwritten_digits_classifier) *(k-nearest-neighbor, MLP neural network)*
+* [Building a spam filter with Naive Bayes](https://github.com/jasperquak/building_spam_filter_naive_bayes) *(data cleaning, text analysis, naive bayes)*
  
 
 ## Other projects
