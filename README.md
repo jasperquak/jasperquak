@@ -10,6 +10,7 @@
 * [Dutch household waste](https://github.com/jasperquak/dutch_household_waste) *(data cleaning, data analytics, data visualization)*
 * [Building a handwritten digits classifier](https://github.com/jasperquak/building_handwritten_digits_classifier) *(k-nearest-neighbor, MLP neural network)*
 * [Building a spam filter with Naive Bayes](https://github.com/jasperquak/building_spam_filter_naive_bayes) *(data cleaning, text analysis, naive bayes)*
+* [Popular data science questions](https://github.com/jasperquak/popular_data_science_questions) *(sql, data analytics)*
  
 
 ## Other projects
@@ -20,7 +21,6 @@
 * [Predicting the stock market](https://github.com/jasperquak/predicting_stock_market) *(linear regression)*
 * [Predicting house sale prices](https://github.com/jasperquak/predicting_house_sale_prices) *(feature selection, linear regression)*
 * [Predicting car prices](https://github.com/jasperquak/predicting_car_prices) *(data cleaning, k-nearest neighbor)*
-* [Popular data science questions](https://github.com/jasperquak/popular_data_science_questions) *(sql, data analytics)*
 * [Winning jeopardy](https://github.com/jasperquak/winning_jeopardy) *(text analysis)*
 * [Selecting markets to advertize in](https://github.com/jasperquak/selecting_markets_to_advertize_in) *(data analytics)*
 * [Analyzing New York City high school data](https://github.com/jasperquak/analyzing_nyc_highschool_data) *(data analytics, data visualization)*
